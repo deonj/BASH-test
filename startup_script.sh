@@ -1,2 +1,2 @@
 echo "Deleting default route"
-ip route
+ip route del default
